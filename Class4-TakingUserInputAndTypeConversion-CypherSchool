@@ -1,0 +1,12 @@
+a=type()
+print(a)
+type(a)
+
+bin(65)
+
+a=15
+str(a)
+
+int("1234")
+
+float("1.5")
