@@ -1,0 +1,34 @@
+#Arithmetic operators
+5+5
+10-5
+isinstance(10.0,int)
+10/2
+10//3
+10%3
+2*3
+2**3
+"Jatin"+"Katyal"
+"Jatin" " " "Katyal"
+"abc"*6
+
+#Comparison operators
+1==2
+1!=2
+1<2
+2>3
+"ab"<"z"
+
+#Logical operators
+True and False
+True or False
+True and 1
+1 and 0
+1 and 5
+isinstance(True,int)
+type(True)
+' ' and 6
+1.6 or ''
+"" or 2.5
+bool("")
+bool([1,2,3])
+
