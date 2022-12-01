@@ -1,4 +1,4 @@
-a=type()
+a=input()
 print(a)
 type(a)
 
@@ -10,3 +10,9 @@ str(a)
 int("1234")
 
 float("1.5")
+
+a=65
+isinstance(a,object)
+
+a='A'
+is instance(a,object)
